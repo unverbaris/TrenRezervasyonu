@@ -1,0 +1,10 @@
+C:\Users\unver\source\repos\TrenRezervasyon\bin\Debug\TrenRezervasyon.exe.config
+C:\Users\unver\source\repos\TrenRezervasyon\bin\Debug\TrenRezervasyon.exe
+C:\Users\unver\source\repos\TrenRezervasyon\bin\Debug\TrenRezervasyon.pdb
+C:\Users\unver\source\repos\TrenRezervasyon\obj\Debug\TrenRezervasyon.csprojAssemblyReference.cache
+C:\Users\unver\source\repos\TrenRezervasyon\obj\Debug\TrenRezervasyon.Form1.resources
+C:\Users\unver\source\repos\TrenRezervasyon\obj\Debug\TrenRezervasyon.Properties.Resources.resources
+C:\Users\unver\source\repos\TrenRezervasyon\obj\Debug\TrenRezervasyon.csproj.GenerateResource.cache
+C:\Users\unver\source\repos\TrenRezervasyon\obj\Debug\TrenRezervasyon.csproj.CoreCompileInputs.cache
+C:\Users\unver\source\repos\TrenRezervasyon\obj\Debug\TrenRezervasyon.exe
+C:\Users\unver\source\repos\TrenRezervasyon\obj\Debug\TrenRezervasyon.pdb
